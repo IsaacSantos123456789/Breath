@@ -68,6 +68,10 @@ nav {
   }
 
   #navbar.active {
+    rigth: 0px;
+  }
+
+  #navbar.active {
     right: 0px;
   }
 
